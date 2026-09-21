@@ -6,12 +6,12 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Umeh Ikechukwu Princely |
+| GitHub Username | prinederky |
+| Email Address | prinederky@gmail.com|
+| Phone / WhatsApp | 09042820132|
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
+| Programme Start Date | 7th September 2026 |
 | LinkedIn Profile | |
 
 ---
